@@ -3,5 +3,7 @@
 # Até 50 km: R$ 5,00
 # De 51 a 150 km: R$ 15,00
 # Acima de 150 km: R$ 25,00
+distancia == float(input("digite a distancia"))
 
+if 
 
